@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="125347" started-at="2020-01-04T07:30:23Z" finished-at="2020-01-04T07:32:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="125347" started-at="2020-01-04T07:30:23Z" finished-at="2020-01-04T07:32:29Z">
+      <class name="appium.test.DataProvider">
+        <test-method status="PASS" signature="Checkingtext(java.lang.String)[pri:0, instance:appium.test.DataProvider@4678c730]" name="Checkingtext" duration-ms="77274" started-at="2020-01-04T13:00:24Z" data-provider="testdata" finished-at="2020-01-04T13:01:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkingtext -->
+        <test-method status="PASS" signature="Checkingtext(java.lang.String)[pri:0, instance:appium.test.DataProvider@4678c730]" name="Checkingtext" duration-ms="47965" started-at="2020-01-04T13:01:41Z" data-provider="testdata" finished-at="2020-01-04T13:02:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[414qee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkingtext -->
+      </class> <!-- appium.test.DataProvider -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
